@@ -127,7 +127,7 @@ body {
   .navbar-brand h1 { /* Restaurant name */
     padding-top: 10px;
     font-size: 5vw; /* 1vw = 1% of viewport width */
-    padding-right: 250px;
+    padding-right: 230px;
   }
   .navbar-brand p { /* Kosher cert */
     font-size: .6em;
